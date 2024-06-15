@@ -20,22 +20,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Criando um Ebook de Guia Prático de Python ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criação de um Ebook Digital simples para programadores iniciantes
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT, Power Point, ray.so
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
+Utilizei o ChatGPT para pesquisar o título e conteúdo e para criação
+do Ebook, utilizei o Power Point, o usei pinterest para pesquisar imagens
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O Resultado foi um Ebook bem elaborado e simples.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Criar algo natty foi uma abertura de portas para novas insights
+e posso ver que posso criar muitas coisas com as IAs Generativas.
 ```
 
 ### Exemplos e Insigths
